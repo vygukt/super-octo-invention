@@ -8,5 +8,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 version = "19.11.43"
+arch = "arm-v7a"
 included-patches = "'Custom branding' 'Change header'"
 excluded-patches = "'Restore old video quality menu' 'Playback speed' 'Always repeat' 'Open links externally' 'Custom player overlay opacity' 'Spoof app version' 'Copy video URL'"
